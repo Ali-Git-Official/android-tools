@@ -384,4 +384,3 @@ vendor/lib64/vendor.mokee.power@1.0.so
 vendor/lib64/vendor.mokee.trust@1.0.so
 vendor/manifest.xml
 vendor/ueventd.rc
-
